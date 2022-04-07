@@ -1,3 +1,5 @@
 git -- init para iniciar el repositorio
 
 git add agrega los archivos al area de preparacion
+
+Muy buen trabajo todo opera normal
